@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    display: inline-flex;
+    background-color: aliceblue;
+    position: fixed;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+}
+
+.left-header {
+    display: flex;
+    padding: 10px;
+}
+
+.right-header {
+    padding: 10px;
+    display: flex;
+    list-style: none;
+}
+
+.right-header li {
+    padding: 10px;
+}
