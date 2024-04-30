@@ -1,11 +1,12 @@
 body {
-    margin: 0;
+    color: white;
+    background-color: #E0EAFF;
 }
 
 .header {
     width: 100%;
     display: inline-flex;
-    background-color: aliceblue;
+    background-color: #2E294E;
     position: fixed;
     justify-content: space-between;
     top: 0;
@@ -26,3 +27,22 @@ body {
 .right-header li {
     padding: 10px;
 }
+
+.nav-text {
+    color: #1B99FF;
+}
+
+.rant-list {
+    color: black;
+    margin-top: 100px;
+}
+
+#first-rant {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+#first-rant h4 {
+    margin: 0;
+}
+

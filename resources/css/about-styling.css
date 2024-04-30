@@ -1,0 +1,20 @@
+.about-section {
+    position: relative;
+    display: inline-flex;
+    top: 100px;
+    flex-direction: row;
+    color: black;
+    text-align: center;
+}
+
+.about-img img {
+    margin-top: 35px;
+    border-radius: 100%;
+    border: 5px solid white;
+}
+
+.why {
+    text-align: center;
+    color: black;
+    margin-top: 120px;
+}

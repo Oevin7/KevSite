@@ -1,25 +1,12 @@
 .content {
     text-align: center;
+    color: black;
     position: relative;
     top: 100px;
 }
 
-.header a {
-    color: cadetblue;
-}
-
-.header a:hover {
-    text-decoration: underline;
-    cursor: pointer;
-    color: lightcoral;
-}
-
-.content a {
-    color: blue;
-}
-
-.content a:hover {
-    text-decoration: underline;
-    color: cadetblue;
-    cursor: pointer;
+.summary {
+    padding: 10px;
+    display: block;
+    text-align: left;
 }
